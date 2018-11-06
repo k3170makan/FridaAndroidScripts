@@ -73,7 +73,4 @@ or maliciously scanning for bluetooth objects.
 [*]	- Bond State     :(12) Bonded
 ```
 *Disclaimer : MAC addresses shown here are fabricated entirely.
-
 Prints in color too!
-
-![](./example_outout.png "example output")
